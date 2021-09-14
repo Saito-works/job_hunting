@@ -1,0 +1,23 @@
+
+#timer {
+font-size: 250px;
+color: black;
+margin-top: 30px;
+margin-left: 15%;
+margin-right: 15%;
+}
+
+body{
+  position: relative;
+  
+}
+
+#countup {
+font-size: 100px;
+color: black;
+text-align: center;
+}
+
+#button{
+  text-align: center;
+}
